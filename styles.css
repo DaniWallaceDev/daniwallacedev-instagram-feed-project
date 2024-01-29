@@ -1,0 +1,70 @@
+body {
+font-family: 'Alatsi';
+background: grey;
+margin: 0;
+}
+header {
+    background: linear-gradient(to right, #ad0876, #ff53f9 ,#ffdafe, #ff53f9, #ad0876);
+    text-align: center;
+    padding: 12px;
+    margin: 0;
+}
+header h1 {
+    margin: 0;
+}
+div.post1 {
+    background: linear-gradient(to right,#ffdafe ,white, #ffdafe);
+    margin: auto;
+    width: 33%;
+    height: 25%;
+    margin-top: 58px;
+    border-radius: 15px;
+}
+div.title {
+    width: 100%;
+    height: 60px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.text {
+    margin: auto;
+}
+.date {
+    margin: 5px 5px 0px 0px;
+}
+p {
+    padding: 10px;
+    height: auto;
+    margin: 0 auto;
+}
+div.post2 {
+    background: linear-gradient(to right,#ffdafe ,white, #ffdafe);
+    margin: auto;
+    width: 33%;
+    height: 25%;
+    margin-top: 58px;
+    border-radius: 15px;
+}
+div.post3 {
+    background: linear-gradient(to right,#ffdafe ,white, #ffdafe);
+    margin: auto;
+    width: 33%;
+    height: 25%;
+    margin-top: 58px;
+    border-radius: 15px;
+}
+div.post4 {
+    background: linear-gradient(to right,#ffdafe ,white, #ffdafe);
+    margin: auto;
+    width: 33%;
+    height: 25%;
+    margin-top: 58px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
